@@ -3,6 +3,7 @@
 First download data at
 
 http://datascience.ku.ac.th/16-2/
+
 Goto KU Data Center Energy
 click csv (with header)
 
