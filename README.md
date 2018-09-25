@@ -2,7 +2,9 @@
 
 First download data at
 
-https://drive.google.com/file/d/1-pq6O336oFdHZn5NeNvkNiTn1MnIAk9w/view?usp=sharing
+http://datascience.ku.ac.th/16-2/
+Goto KU Data Center Energy
+click csv (with header)
 
 1. data_clean1_visual.ipynb
 2. data_clean2.ipynb
